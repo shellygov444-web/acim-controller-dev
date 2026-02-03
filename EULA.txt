@@ -1,6 +1,27 @@
-﻿END USER LICENSE AGREEMENT (EULA)
+﻿# END USER LICENSE AGREEMENT
 
-1. Grant of License: ACIM Systems grants you a non-exclusive license to use ACIM Controller for personal use.
-2. Restrictions: You may not decompile, reverse engineer, or disassemble the Software.
-3. Disclaimer: The software is provided "as-is" without warranty of any kind.
-4. Third-Party Drivers: This software utilizes the HidHide driver. Use of HidHide is subject to its own licensing terms.
+**ACIM Controller**
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+## 1. GRANT OF LICENSE
+ACIM Systems grants you a non-exclusive, non-transferable license to use ACIM Controller subject to the terms herein.
+
+## 2. PROPRIETARY RIGHTS
+This software is proprietary to ACIM Systems. All source code, algorithms, and implementations are trade secrets. You may NOT:
+- Decompile, reverse engineer, or disassemble the software
+- Modify, adapt, or create derivative works
+- Distribute, sublicense, or transfer the software
+- Remove any proprietary notices
+
+## 3. PERMITTED USE
+- Personal, non-commercial use on owned devices
+- Commercial use with purchased license key
+
+## 4. RESTRICTIONS
+The software may not be used in competitive analysis, security research involving redistribution of findings, or development of competing products.
+
+## 5. TERMINATION
+Violation of these terms results in immediate license termination.
+
+© 2026 ACIM Systems. All rights reserved.
