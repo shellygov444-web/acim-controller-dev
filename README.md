@@ -10,7 +10,7 @@ ACIM Controller is a Windows desktop application that transforms DualSense and o
 
 ## ✨ Key Features
 
-- **🎮 Multi-Mode Touchpad**: 7 distinct modes including absolute positioning, relative mouse, gesture recognition, and hybrid input.
+- **🎮 Multi-Mode Touchpad**: 3 distinct modes including absolute positioning, relative mouse, gesture recognition, and hybrid input.
 - **🥷 Controller Hiding**: Built-in HidHide integration to hide physical controllers from games while preserving virtual input.
 - **⚡ Real-time Profiles**: Switch configurations instantly without restarting applications.
 - **🔧 Professional Calibration**: Per-device touchpad calibration with deadzone and sensitivity tuning.
