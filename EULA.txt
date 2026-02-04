@@ -1,27 +1,79 @@
-﻿# END USER LICENSE AGREEMENT
+# END USER LICENSE AGREEMENT
 
-**ACIM Controller**
+**ACIM Controller v1.0.0**
 
-IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+**IMPORTANT:** PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE. BY INSTALLING, COPYING, OR OTHERWISE USING ACIM CONTROLLER, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
 
-## 1. GRANT OF LICENSE
-ACIM Systems grants you a non-exclusive, non-transferable license to use ACIM Controller subject to the terms herein.
+## 1. DEFINITIONS
+- **"Software"** refers to ACIM Controller, including all binaries, drivers, documentation, and associated materials.
+- **"You"** refers to the individual or entity installing or using the Software.
+- **"HidHide"** refers to the third-party driver component by Nefarius, licensed under BSD-3-Clause.
 
-## 2. PROPRIETARY RIGHTS
-This software is proprietary to ACIM Systems. All source code, algorithms, and implementations are trade secrets. You may NOT:
-- Decompile, reverse engineer, or disassemble the software
-- Modify, adapt, or create derivative works
-- Distribute, sublicense, or transfer the software
-- Remove any proprietary notices
+## 2. GRANT OF LICENSE
+Subject to compliance with this Agreement, ACIM Systems grants You a limited, non-exclusive, non-transferable, revocable license to:
+- Install and use the Software on Windows 10/11 devices You own or control
+- Create one backup copy for archival purposes
 
-## 3. PERMITTED USE
-- Personal, non-commercial use on owned devices
-- Commercial use with purchased license key
+## 3. PROPRIETARY RIGHTS
+The Software is the exclusive property of ACIM Systems. All rights not expressly granted are reserved. The Software contains trade secrets and proprietary algorithms protected by copyright law and international treaties.
 
-## 4. RESTRICTIONS
-The software may not be used in competitive analysis, security research involving redistribution of findings, or development of competing products.
+**You may NOT:**
+- Decompile, reverse engineer, disassemble, or attempt to derive source code
+- Modify, adapt, translate, or create derivative works
+- Distribute, sublicense, lease, rent, loan, or transfer the Software
+- Remove or alter any proprietary notices, labels, or marks
+- Use the Software to develop competing products
+- Publish benchmark results without prior written consent
 
-## 5. TERMINATION
-Violation of these terms results in immediate license termination.
+## 4. PERMITTED USE
+
+### 4.1 Personal Use
+Free for personal, non-commercial use on up to 3 devices per household.
+
+### 4.2 Commercial Use
+Requires a valid commercial license key. Contact licensing@acim-systems.com for pricing.
+
+### 4.3 Prohibited Uses
+You may NOT use the Software for:
+- Competitive analysis or benchmarking for competing products
+- Security research involving public disclosure of vulnerabilities without prior coordination
+- Any activity violating applicable laws or regulations
+- Cheating or unauthorized modification in online multiplayer games
+
+## 5. THIRD-PARTY COMPONENTS
+The Software includes:
+- **HidHide** by Nefarius (BSD-3-Clause license) – required for controller hiding
+- **Flutter** by Google (BSD-3-Clause license)
+- **Rust** runtime components (MIT/Apache-2.0 license)
+
+Third-party components remain subject to their original licenses. Source code for these components is available from their respective publishers.
+
+## 6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ACIM SYSTEMS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+ACIM Systems does not warrant that:
+- The Software will meet Your requirements
+- The Software will be uninterrupted, timely, secure, or error-free
+- The results obtained from use will be accurate or reliable
+- Any errors will be corrected
+
+## 7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL ACIM SYSTEMS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ACIM Systems' total liability shall not exceed the amount You paid for the Software (if any) or USD $50.00, whichever is greater.
+
+## 8. TERMINATION
+This Agreement is effective until terminated. ACIM Systems may terminate this Agreement immediately if You fail to comply with any term. Upon termination, You must destroy all copies of the Software.
+
+## 9. GOVERNING LAW
+This Agreement shall be governed by the laws of the Republic of South Africa, without regard to conflict of law principles. Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts of South Africa.
+
+## 10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between You and ACIM Systems regarding the Software and supersedes all prior agreements.
+
+**By clicking "I Agree" or using ACIM Controller, You acknowledge that You have read, understood, and agree to be bound by this Agreement.**
+
+---
 
 © 2026 ACIM Systems. All rights reserved.
+ACIM Controller™ is a trademark of ACIM Systems.
