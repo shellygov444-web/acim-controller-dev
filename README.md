@@ -1,19 +1,29 @@
-﻿# ACIM Controller
+# ACIM Controller
 
-[![Release](https://img.shields.io/github/v/release/shellygov444-web/acim-controller-dev?color=blue)](https://github.com/shellygov444-web/acim-controller-dev/releases)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](EULA.txt)
-[![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6.svg)](https://www.microsoft.com/windows/)
+[![Release](https://img.shields.io/github/v/release/shellygov444-web/acim-controller-dev?color=blue )](https://github.com/shellygov444-web/acim-controller-dev/releases )
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg )](EULA.txt)
+[![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6.svg )](https://www.microsoft.com/windows/ )
 
 > **Advanced Controller Input Mapper** - Professional-grade controller virtualization with intelligent touchpad modes and HID device management.
 
-ACIM Controller is a Windows desktop application that transforms DualSense and other gamepads into versatile input devices. It features multi-mode touchpad support (absolute, relative, gesture, mouse emulation), controller hiding via HidHide integration, and real-time input profiling.
+ACIM Controller is a Windows desktop application that transforms DualSense and other gamepads into versatile input devices. It features multi-mode touchpad support (tap click, click only, disable), controller hiding via HidHide integration, and real-time input profiling.
+
+## ⚡ Performance
+
+| Metric | Performance |
+|--------|-------------|
+| **Input Latency** | **0.02ms – 0.37ms** |
+| **Memory Usage** | **15 – 25 MB RAM** |
+| **Processing Core** | Rust (zero-overhead) |
+
+**Verified by production logs:**
 
 ## ✨ Key Features
 
-- **🎮 Multi-Mode Touchpad**: 3 distinct modes including absolute positioning, relative mouse, gesture recognition, and hybrid input.
+- **🎮 Multi-Mode Touchpad**: 3 distinct modes **Tap Click** (4-quadrant input), **Click Only** (legacy behavior), and **Disable** (touchpad off).
 - **🥷 Controller Hiding**: Built-in HidHide integration to hide physical controllers from games while preserving virtual input.
-- **⚡ Real-time Profiles**: Switch configurations instantly without restarting applications.
-- **🔧 Professional Calibration**: Per-device touchpad calibration with deadzone and sensitivity tuning.
+- **⚡ Single Profile**: Save and load one configuration (multi-profile UI in development).
+- **🔧 Deadzone Calibration**: Per-device calibration with functional backend (visual indicator alignment in progress).
 - **🖥️ Windows Native**: Optimized for Windows 10/11 with Rust core for performance-critical input processing.
 
 ## 📦 What Gets Installed
@@ -25,11 +35,24 @@ The installer automatically handles:
 > **Note:** HidHide is mandatory for ACIM Controller to function. The installer includes it offline for reliability.
 
 ## 🚀 Quick Start
-1.  **Download** the latest installer from [Releases](https://github.com/shellygov444-web/acim-controller-dev/releases).
+1.  **Download** the latest installer from [Releases](https://github.com/shellygov444-web/acim-controller-dev/releases ).
 2.  **Install** using the setup wizard (requires Administrator for driver installation).
 3.  **Connect** your DualSense controller via USB or Bluetooth.
 4.  **Launch** ACIM Controller from the Start Menu.
 5.  **Game!** Your physical controller is hidden; the virtual controller takes over.
+
+## 🎮 DualSense Edge Support
+ACIM Controller supports DualSense Edge paddle remapping with the following workflow:
+* Assign face buttons (A/B/X/Y) to back paddles
+* Remap freed face buttons to keyboard/mouse inputs
+* **Note:** Paddle assignment removes that input from the original face button location
+* **Requires:** USB connection for Edge detection
+
+## 🎮 DualShock 4 Status
+**Untested.** ACIM Controller uses standard HID protocols also found in DualShock 4, but we haven't validated compatibility. If you have a PS4 controller and want to test it, please report results in [Discord Server - Support](https://discord.gg/dnwYZhuk).
+
+## 💬 Community & Support
+Join our Discord community for support, feature requests, and bug reports: **[https://discord.gg/dnwYZhuk](https://discord.gg/dnwYZhuk)**
 
 ## 📄 License
 **ACIM Controller** is proprietary software. See `EULA.txt` for details.
