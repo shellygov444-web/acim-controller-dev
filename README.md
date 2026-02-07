@@ -1,6 +1,6 @@
 # ACIM Controller
 
-[![Release](https://img.shields.io/github/v/release/shellygov444-web/acim-controller-dev?color=blue )](https://github.com/shellygov444-web/acim-controller-dev/releases )
+[![Release](https://img.shields.io/github/v/release/shellygov444-web/ACIM-Controller-Dev?color=blue)](https://github.com/shellygov444-web/ACIM-Controller-Dev/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg )](EULA.txt)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6.svg )](https://www.microsoft.com/windows/ )
 
