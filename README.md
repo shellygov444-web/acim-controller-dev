@@ -1,7 +1,5 @@
 # [🏠 Home](https://github.com/shellygov444-web/acim-controller-dev) | [🗺️ Roadmap](./ROADMAP.md) | [💬 Discord](https://discord.gg/tXB8Dbbf) | [☕ Support](https://ko-fi.com/controllerlab/tip)
 
----
-
 # ACIM Controller
 
 [![Release](https://img.shields.io/github/v/release/shellygov444-web/acim-controller-dev?include_prereleases&color=blue)](https://github.com/shellygov444-web/acim-controller-dev/releases)
