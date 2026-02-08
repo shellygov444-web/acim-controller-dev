@@ -54,6 +54,30 @@ ACIM Controller supports DualSense Edge paddle remapping with the following work
 ## 💬 Community & Support
 Join our Discord community for support, feature requests, and bug reports: **[https://discord.gg/dnwYZhuk](https://discord.gg/dnwYZhuk)**
 
+## ☕ Support the Project
+
+If this application helps you achieve better performance, consider supporting the development! Tips help keep the lab running and allow for more frequent updates.
+
+### 🏆 Supporter Perks
+* **Tips of $5+** automatically grant you the **@Lab Supporter** role in our Discord!
+* Exclusive access to development builds and beta features.
+
+---
+
+| Platform | Link/Address |
+| :--- | :--- |
+| **Main Support** | [**Support on Ko-fi**](https://ko-fi.com/controllerlab/tip) |
+| **Discord Help** | [**Join the Server**](https://discord.gg/tXB8Dbbf) |
+
+### ₿ Crypto Donations (Direct)
+These are my official verified addresses from the **Controller Lab Portfolio**:
+
+* **Bitcoin (BTC):** `bc1qwfxqvgfc0grdp9xmkuduqrx3qlg249569g8qf5`
+* **Ethereum (ETH):** `0x13B4961Acc67Cf8eDc7Dc522daa33De8AFEbc2e1`
+* **Solana (SOL):** `3E2j8w4rNndVMjdhcmJPh7AFc1yK5p7arH5Vjn8xTZwC`
+
+---
+
 ## 📄 License
 **ACIM Controller** is proprietary software. See `EULA.txt` for details.
 
